@@ -143,3 +143,8 @@ erDiagram
   USER ||--o{ REVIEW : "writes"
   USER ||--o{ MESSAGE : "sends"
   USER ||--o{ MESSAGE : "receives"
+
+
+## Visual Diagram (Exported from Draw.io)
+
+![ER Diagram](airbnb_erd.png)
